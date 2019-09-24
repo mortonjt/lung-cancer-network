@@ -8,6 +8,7 @@ dependencies:
   - numpy
   - pycrypto
   - pip
+  - seaborn
   - matplotlib
   - pip:
     - python-igraph>=0.7.1
