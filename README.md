@@ -1,4 +1,5 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mortonjt/lung-cancer-network.git/bb38767c69f5aa3f23efdfe41c19305e9e118069)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mortonjt/lung-cancer-network.git/6373d84c56802f8ed86a37f349fb015a32252f8c)
+
 
 # multiomics_network
 Network visualizations for bacterial species and metabolites from microbiome data
